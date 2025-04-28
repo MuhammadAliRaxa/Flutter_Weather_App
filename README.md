@@ -19,7 +19,7 @@ A beautifully designed weather application built with Flutter. It fetches real-t
 
 🖼️ Screenshots
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/f0ae3198-1515-4c66-b8a8-fd4dc2d3a98b)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f0ae3198-1515-4c66-b8a8-fd4dc2d3a98b" width="200"/>
   <img src="![deviceframes (3)](https://github.com/user-attachments/assets/b990886f-b964-4330-9aea-6f71ee127995)" width="200"/>
   <img src="![deviceframes (5)](https://github.com/user-attachments/assets/f82c6f30-3b58-4d77-b167-4493ec502bfd)" width="200"/>
 </p>
