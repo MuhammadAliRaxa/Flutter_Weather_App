@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/flutter-weather-app.git
+git clone https://github.com/MuhammadAliRaxa/flutter-weather-app.git
 cd flutter-weather-app
 Install dependencies:
 
